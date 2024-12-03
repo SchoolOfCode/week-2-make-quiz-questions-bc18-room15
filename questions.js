@@ -40,19 +40,19 @@ const questions = [
    correct_explanation:"Explorer is not a part of the Disney Ideation."},
 
    {question_text:"Which one of these were not guest speakers during Week 1?",
-    question_type:"mutiple_choice",
+    question_type:"multiple_choice",
     options:["Ira Rainey", "Fadumo Aideed", "Chris Meah", "Steve Jobs"],
     correct_option: 3 ,
     correct_explanation:"Steve Jobs is a made up name."},
 
     {question_text:"Which one of these is not a part of Git?",
-     question_type:"mutiple_choice",
+     question_type:"multiple_choice",
      options:["git add .", "git commit -m", "git drive", "git push" ],
      correct_option: 2 ,
      correct_explanation:"git drive is not a part of Git"},
 
     {question_text:"What does MVP stand for?",
-     question_type:"mutiple_choice",
+     question_type:"multiple_choice",
      options:["minimum viable product", "master volume person", "multi vitamin prescription", "most valuable player"],
      correct_option: 0 ,
      correct_explanation:"Minimum viable product is possible code that is functioning(usually in its early stages)"},
